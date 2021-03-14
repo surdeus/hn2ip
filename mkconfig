@@ -1,0 +1,3 @@
+<$MKINCDIR/config
+PROGNAME = hn2ip
+CFILES = main.c
